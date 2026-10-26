@@ -1,4 +1,4 @@
-# Troopers26-Windows-Deployment-Service-An-AD-Blind-Spot
+# Troopers26 - Windows Deployment Service: An-AD-Blind-Spot ? 
 - Video :
   - https://www.youtube.com/watch?v=bt4n3JefRNQ
 - Article :
